@@ -1,0 +1,2 @@
+# android-hosts
+anti-ad

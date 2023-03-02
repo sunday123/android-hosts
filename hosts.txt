@@ -2,6 +2,25 @@
 
 127.0.0.1 localhost
 ::1 localhost
+127.0.0.1 f4.market.mi-img.com
+127.0.0.1 f1.market.xiaomi.com
+127.0.0.1 srv.sec.miui.com
+127.0.0.1 i.mi.com
+127.0.0.1 www.baidu.com
+127.0.0.1 g9hc4.cn
+127.0.0.1 etl-xlmc-ssl.sandai.net
+127.0.0.1 stat.doglobal.net
+127.0.0.1 api-es.doglobal.net
+127.0.0.1 connect.rom.miui.com
+127.0.0.1 f2.market.xiaomi.com
+127.0.0.1 mpush-api.aliyun.com
+127.0.0.1 comp.360os.com
+127.0.0.1 f5.market.xiaomi.com
+127.0.0.1 f5.market.mi-img.com
+127.0.0.1 sdk.s.360.cn
+127.0.0.1 sdk.beizi.biz
+127.0.0.1 f4.market.xiaomi.com
+127.0.0.1 client.sms.miui.com
 0.0.0.0 ts.qq.com
 0.0.0.0 apd-pcdnwxnat.teg.tencent-cloud.net
 0.0.0.0 bk.info.zb.qq.com
